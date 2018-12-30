@@ -80,7 +80,7 @@ Cambia en la clase “conexión” la configuración de la conexión a la base d
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_ Herramientas_
 
 * [Spring](https://spring.io/) - Framework 
 * [NetBeans](https://netbeans.org/) - IDE
