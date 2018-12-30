@@ -89,7 +89,7 @@ El servidor usado para este proyecto es Payara Server 4.1.1.171.1 #badassfish (b
 _Motor de Base de datos MySQL_
 
 ```
-XAMMP - PhpMyAdmin
+XAMPP - PhpMyAdmin
 ```
 
 ## Deployment 📦
