@@ -93,8 +93,6 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Jean González** - *Trabajo Inicial* - [jean Gonzalez](https://github.com/jeanValverde)
 * **César Cancino** - *Documentación* - [César Cancino](https://www.cesarcancino.com/)
 
