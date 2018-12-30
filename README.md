@@ -1,10 +1,30 @@
 # Framework Spring Java Básico
 
-_Escrito inicialmente por Rod Johnson, fue lanzado por primera vez en el mes de Junio del año 2003 bajo la licencia Apache 2.0, siendo una plataforma Java de código abierto. Convirtiéndose desde entonces en el framework más popular para Java empresarial, para crear código de alto rendimiento, liviano y reutilizable. Ya que su finalidad es estandarizar, agilizar, manejar y resolver los problemas que puedan ir surgiendo en el trayecto de la programación._
+_Spring es un framework para el desarrollo de aplicaciones y contenedor de inversión de control, de código abierto para la plataforma Java._
 
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+_Este proyecto contiene._
+
+```
+Prueba de paso de parámetros GET tipo QUERY STRING.
+```
+```
+Formulario Simple.
+```
+```
+Herramientas DOM (js,css) Bootstrap.
+```
+```
+Formulario con validación.
+```
+```
+Framework Spring java con MySQL (CRUD usuario). 
+```
+
+
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
