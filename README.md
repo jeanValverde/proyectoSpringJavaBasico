@@ -3,7 +3,7 @@
 _Spring es un framework para el desarrollo de aplicaciones y contenedor de inversión de control, de código abierto para la plataforma Java._
 
 
-_Este proyecto contiene._
+_Este proyecto WEB contiene._
 
 ```
 Prueba de paso de parámetros GET tipo QUERY STRING.
