@@ -1,6 +1,6 @@
 # Framework Spring Java Básico
 
-_fdsfd_
+_Escrito inicialmente por Rod Johnson, fue lanzado por primera vez en el mes de Junio del año 2003 bajo la licencia Apache 2.0, siendo una plataforma Java de código abierto. Convirtiéndose desde entonces en el framework más popular para Java empresarial, para crear código de alto rendimiento, liviano y reutilizable. Ya que su finalidad es estandarizar, agilizar, manejar y resolver los problemas que puedan ir surgiendo en el trayecto de la programación._
 
 ## Comenzando 🚀
 
@@ -14,23 +14,62 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+Servidor de aplicaciones Java: Glassfish, Apache Tomcat, Payara, etc
+```
+
+```
+MySQL Base de datos 
+```
+
+```
+
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
+
+-- -----------------------------------------------------
+-- Schema springBD
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
+-- Schema springBD
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `springBD` DEFAULT CHARACTER SET utf8 ;
+USE `springBD` ;
+
+-- -----------------------------------------------------
+-- Table `springBD`.`usuario`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `springBD`.`usuario` (
+  `idusuario` INT NOT NULL AUTO_INCREMENT,
+  `nombre` VARCHAR(45) NOT NULL,
+  `correo` VARCHAR(45) NOT NULL,
+  `password` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`idusuario`))
+ENGINE = InnoDB;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
+
+
 ```
 
 ### Instalación 🔧
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-_Dí cómo será ese paso_
-
 ```
-Da un ejemplo
+El servidor usado para este proyecto es Payara Server 4.1.1.171.1 #badassfish (build 139)
 ```
 
-_Y repite_
+_Motor de Base de datos MySQL _
 
 ```
-hasta finalizar
+XAMMP - PhpMyAdmin
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
@@ -57,13 +96,15 @@ Da un ejemplo
 
 ## Deployment 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+```
+Cambia en la clase “conexión” la configuración de la conexión a la base de datos usuario y contraseña  según la configuración de tu entorno de desarrollo. 
+```
 
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Spring](https://spring.io/) - El framework 
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
@@ -79,8 +120,8 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Jean González** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **César Cancino** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Jean González** - *Trabajo Inicial* - [jean Gonzalez](https://github.com/jeanValverde)
+* **César Cancino** - *Documentación* - [César Cancino](https://www.cesarcancino.com/)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
