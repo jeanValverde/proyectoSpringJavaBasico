@@ -93,7 +93,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-* **Jean González** - *Trabajo Inicial* - [jean Gonzalez](https://github.com/jeanValverde)
+* **Jean González** - *Trabajo Inicial* - [jean González](https://github.com/jeanValverde)
 * **César Cancino** - *Documentación* - [César Cancino](https://www.cesarcancino.com/)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/jeanValverde/proyectoSpringJavaBasico/contributors) quíenes han participado en este proyecto. 
