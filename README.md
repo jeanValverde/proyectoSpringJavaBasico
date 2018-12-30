@@ -66,7 +66,7 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 El servidor usado para este proyecto es Payara Server 4.1.1.171.1 #badassfish (build 139)
 ```
 
-_Motor de Base de datos MySQL _
+_Motor de Base de datos MySQL_
 
 ```
 XAMMP - PhpMyAdmin
