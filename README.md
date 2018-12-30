@@ -87,10 +87,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [XAMPP](https://www.apachefriends.org/es/index.html/) - Usado para MySQL
 * [Bootstrap](https://getbootstrap.com/) - Usado para GUI
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
 ## Versionado 📌
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jeanValverde/proyectoSpringJavaBasico/tags).
