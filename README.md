@@ -72,28 +72,6 @@ _Motor de Base de datos MySQL _
 XAMMP - PhpMyAdmin
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ## Deployment 📦
 
 ```
@@ -104,9 +82,10 @@ Cambia en la clase “conexión” la configuración de la conexión a la base d
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Spring](https://spring.io/) - El framework 
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Spring](https://spring.io/) - Framework 
+* [NetBeans](https://netbeans.org/) - IDE
+* [XAMPP](https://www.apachefriends.org/es/index.html/) - Usado para MySQL
+* [Bootstrap](https://getbootstrap.com/) - Usado para GUI
 
 ## Contribuyendo 🖇️
 
@@ -114,7 +93,7 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jeanValverde/proyectoSpringJavaBasico/tags).
 
 ## Autores ✒️
 
@@ -123,20 +102,17 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Jean González** - *Trabajo Inicial* - [jean Gonzalez](https://github.com/jeanValverde)
 * **César Cancino** - *Documentación* - [César Cancino](https://www.cesarcancino.com/)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/jeanValverde/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/jeanValverde/proyectoSpringJavaBasico/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* César Cancino 📢
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [Jean González](https://github.com/jeanValverde) 😊
