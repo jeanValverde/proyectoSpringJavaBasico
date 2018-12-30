@@ -123,7 +123,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Jean González** - *Trabajo Inicial* - [jean Gonzalez](https://github.com/jeanValverde)
 * **César Cancino** - *Documentación* - [César Cancino](https://www.cesarcancino.com/)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/jeanValverde/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
